@@ -14,9 +14,9 @@ Otherwise, you can install from sources by typing:
 
 ## Documentation
 
-Documents for pysub are not exhaustive but they can be found under docs/html directory.
+Documents for pysub are not exhaustive but they can be found under *docs/html* directory.
 
-You can find more info in the [pysub project's homepage](htttp://unoyunodiez.wordpress.com/pysub/).
+You can find more info in the [pysub project's homepage](http://unoyunodiez.wordpress.com/pysub/).
 
 ## Version history
 

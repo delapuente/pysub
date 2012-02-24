@@ -10,13 +10,13 @@ pysub is available in the [Python Package Index](http://pypi.python.org/pypi) so
 
 Otherwise, you can install from sources by typing:
 
-   # python setup.py install
+    # python setup.py install
 
 ## Version history
 
-### 20120224
+### 20120224 (0.2)
 
-    * Initial public release
+ * Initial public release
 
 ## License
 

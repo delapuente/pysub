@@ -12,6 +12,12 @@ Otherwise, you can install from sources by typing:
 
     # python setup.py install
 
+## Documentation
+
+Documents for pysub are not exhaustive but they can be found under docs/html directory.
+
+You can find more info in the [pysub project's homepage](htttp://unoyunodiez.wordpress.com/pysub/).
+
 ## Version history
 
 ### 20120224 (0.2)

@@ -1,6 +1,6 @@
 # pysub
 
-pysub is a little *Python* 2 library to manipulate [SubRip](http://es.wikipedia.org/wiki/SubRip) subtitle files. The main class of the library is the *SubtitleStream* class.
+pysub is a little **Python 2** library to manipulate [SubRip](http://es.wikipedia.org/wiki/SubRip) subtitle files. The main class of the library is the **SubtitleStream** class.
 
 ## Installing pysub
 
@@ -14,7 +14,7 @@ Otherwise, you can install from sources by typing:
 
 ## Documentation
 
-Documents for pysub are not exhaustive but they can be found under *docs/html* directory.
+Documents for pysub are not exhaustive but they can be found under **docs/html** directory.
 
 You can find more info in the [pysub project's homepage](http://unoyunodiez.wordpress.com/pysub/).
 
